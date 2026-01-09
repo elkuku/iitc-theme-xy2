@@ -1,9 +1,9 @@
 {
-  "name": "IITC plugin: TcTheme-<NAME>",
-  "id": "iitc_plugin_TcTheme_<NAME>",
+  "name": "IITC plugin: TcTheme-XY2",
+  "id": "iitc_plugin_TcTheme_XY2",
   "category": "Themes",
-  "description": "A theme for IITC",
-  "author": "<AUTHOR>",
+  "description": "The XY2 theme for IITC",
+  "author": "elkuku",
   "entry": "src/Main.ts",
-  "downloadURL": "https://<OWNER>.github.io/<REPO>/files/release/<PLUGIN_ID>.user.js"
+  "downloadURL": "https://elkuku.github.io/iitc-theme-xy2/files/release/iitc_plugin_TcTheme_XY2.user.js"
 }
