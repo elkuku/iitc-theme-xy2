@@ -14,9 +14,7 @@ To set it up please read the [setup guide](setup.md), then adjust this readme to
 
 ## GitHub Page 
 
-Change the URI of **Your GitHub Page**
-
-`https://<OWNER>.github.io/<REPO>`
+https://elkuku.github.io/iitc-theme-xy2
 
 ----
 Made with :heart: and the [IITC Plugin Kit](https://github.com/McBen/IITCPluginKit)
